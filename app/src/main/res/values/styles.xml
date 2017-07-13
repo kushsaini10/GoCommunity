@@ -1,0 +1,40 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:actionBarSize">33dp</item>
+        <item name="actionBarSize">33dp</item>
+    </style>
+    <style name="menu_labels_style">
+        <item name="android:background">@drawable/fab_label_background</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="ShowcaseView">
+        <item name="sv_titleTextAppearance">@style/TextAppearance.ShowcaseView.Title</item>
+        <item name="sv_detailTextAppearance">@style/TextAppearance.ShowcaseView.Detail</item>
+        <item name="sv_backgroundColor">#3333B5E5</item>
+        <item name="sv_buttonText">@android:string/ok</item>
+    </style>
+
+    <style name="CustomShowcaseTheme2" parent="ShowcaseView">
+        <item name="sv_backgroundColor">#e796d9df</item>
+        <item name="sv_showcaseColor">#e57eb8be</item>
+        <item name="sv_buttonText">Ok</item>
+        <item name="sv_titleTextAppearance">@style/CustomTitle</item>
+        <item name="sv_detailTextAppearance">@style/CustomText2</item>
+    </style>
+
+    <style name="CustomText2" parent="TextAppearance.ShowcaseView.Detail.Light">
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="CustomTitle" parent="TextAppearance.ShowcaseView.Title">
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textSize">40sp</item>
+    </style>
+</resources>

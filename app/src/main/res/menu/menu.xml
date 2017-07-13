@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.listview.MainActivity">
+    <item
+        android:id="@+id/menu_faq"
+        android:orderInCategory="1"
+        android:title="FAQ"
+        app:showAsAction="never"/>
+    <item
+        android:title="Tutorial"
+        android:id="@+id/menu_tutorial"
+        android:orderInCategory="2"
+        app:showAsAction="never"
+        />
+    <item
+        android:title="About"
+        android:id="@+id/menu_about"
+        android:orderInCategory="3"
+        app:showAsAction="never"/>
+</menu>

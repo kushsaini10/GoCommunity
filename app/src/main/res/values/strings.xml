@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Go Map</string>
+    <string name="title_activity_go_maps">Go Map</string>
+    <string name="can_do">      With this application you can place a marker at the location of a Pokestop or a Gym which you can see in your Pokemon Go\'s map and also you can see the markers placed by other users and any user if they know that the location of a marker matches is correct and there is a Pokestop or a Gym there then you can like that marker by pressing like button and if the marker seems to be at wrong location then you can dislike it. You can like or dislike the marker by tapping on that marker and then pressing the Like/Dislike button.</string>
+    <string name="what_is_this_app_for">What is this App for ?</string>
+    <string name="app_desc">In this application a Map is shown on which locations of Pokestops and Gyms are marked so that the user can see these locations and determine the best places to play our favourite game Pokemon Go in his area.</string>
+    <string name="ques_less_marekrs">Why there are no or less markers in my area?</string>
+    <string name="ans_less_markers">It maybe because there are less users of this application from your area or it\'s because there is actually less Pokestops or Gyms in your area so, if you see any new Pokestop or Gym you can mark it and spread the word share a word about this application with your Pokemon Go Buddies and help this community reach our goal of marking every Pokestop and Gym on the Map.</string>
+    <string name="ques_what_you_can_do">What you can do ?</string>
+    <string name="ques_how_to_remove_a_marker">How to Remove a Marker ?</string>
+    <string name="ans_remove_marker">If you placed a marker by mistake or you think it should not be there you can have option to remove it by pressing the Minus Button.</string>
+    <string name="ques_cant_remove_marker">Why can\'t i remove a marker i placed.</string>
+    <string name="ans_cant_remove_marker">If you placed a marker at a legit location and more than 10 users have liked it verifying the marker\'s location it then cannot be removed by the user who placed it.</string>
+    <string name="ques_marker_still_there">Why is the marker I removed still there ?</string>
+    <string name="ans_marker_still_there">If you removed a marker you placed and it is still visible don\'t worry it will be removed from your map the next time app launches.</string>
+</resources>
