@@ -2,9 +2,9 @@
 
 ## Details
 
-Shows Pokestop and Gyms location and user can add new Locations if he wants to.
-To verify the location all the users can rate the marker by a Like or a Dislike.
-User cannot put markers anywhere but he/she is restricted wihtin some range of his location.
+Shows Pokéstop and Gym locations and user can add new Locations if he wants to.
+To verify the location all users can rate the marker by a Like or Dislike.
+User cannot put markers anywhere but he/she is restricted wihtin a range near his location.
 
 ## Libraries and APIs Used
 
@@ -24,5 +24,5 @@ User cannot put markers anywhere but he/she is restricted wihtin some range of h
 
 ## Goal Behind This Application 
 
-This appication was made because there was boundation in Pokémon Go that players cannot see the map beyond their view in game until they start moving to other locations.
+This appication was made because there was a boundation in Pokémon Go that players cannot see the map beyond their view in game unless they start moving to other locations.
 So, this app will help the community of Pokémon Go players to mark in-game locations on map in the app and let other players see locations beyond their region.
